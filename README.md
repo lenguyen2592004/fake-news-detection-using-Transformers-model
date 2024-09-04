@@ -13,7 +13,7 @@ This is my group's project for Inseclab training course.
 # Preparation
 Install the neccessary libraries in `requirement.txt`(please change the path of the file if necessary):
 ~~~
-pip install requirement.txt
+pip install -r requirement.txt
 ~~~
 # Demo:
 Run the file `demo.ipynb`. Please change the path in the line `model = pickle.load(open("/content/fakenewsdetection/fakenews.sav", 'rb'))` to the actual path of the file `fakenews.sav`. After running, enter the link provided in the file to access the website.
