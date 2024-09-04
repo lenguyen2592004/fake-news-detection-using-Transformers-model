@@ -1,0 +1,6 @@
+nltk
+unicodedata2
+transformers
+tf-models-official
+datetime
+gradio
