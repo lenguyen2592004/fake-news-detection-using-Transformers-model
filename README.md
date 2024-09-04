@@ -11,5 +11,4 @@ Install the neccessary libraries in `requirement.txt`(please change the path of 
 pip install requirement.txt
 ~~~
 # Demo:
-Run file `demo.ipynb`, please change the path of the line `model = pickle.load(open("/content/fakenewsdetection/fakenews.sav", 'rb'))` suitable with the real path of file `fakenews.sav`.
-After running, enter the link in the file to access the website.
+Run the file `demo.ipynb`. Please change the path in the line `model = pickle.load(open("/content/fakenewsdetection/fakenews.sav", 'rb'))` to the actual path of the file `fakenews.sav`. After running, enter the link provided in the file to access the website.
