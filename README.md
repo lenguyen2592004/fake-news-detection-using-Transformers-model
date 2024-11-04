@@ -2,7 +2,7 @@
 This is my group's project for Inseclab training course.
 # Member
 | Index | Full name | ID Card | Role |
-|-------|-------|-------|
+|-------|-------|-------|-------|
 | 1 | Pham Hoang Le Nguyen | 22520982 | Leader |
 | 2 | Phan Quoc Dat | 22520233 | Member |
 # Dataset
